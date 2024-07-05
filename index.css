@@ -1,0 +1,13 @@
+.groceryContainer{
+    height: 100vh;
+    background-color: pink;
+   
+}
+
+.unordered-list{
+    background-color: beige;
+    border-radius: 20px;
+    margin: 40px;
+  
+    padding: 60px;
+}
